@@ -643,7 +643,7 @@ h6 {
 .post-item-wrapper .tags .untagged {
   color: #1999ec;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1100px) {
   .post-item-wrapper .date-and-category,
   .post-item-wrapper .tags {
     display: none;
@@ -712,7 +712,7 @@ h6 {
   padding-bottom: 2.5rem;
   font-size: 0.9375rem;
 }
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 600px) {
   .post-tags,
   .post-info {
     font-size: 0.75rem;
